@@ -1,0 +1,10 @@
+import { Injectable } from '@angular/core';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class SchemasService {
+  applySchemas() {
+    // Implementación de la integración de schemas.org
+  }
+}
